@@ -49,7 +49,7 @@ physiological signal analysis and brain-computer interfaces.
 ## 📫 Connect with Me
 - GitHub: https://github.com/noorrami  
 - LinkedIn: https://www.linkedin.com/in/n-o-o-r-r-a-m-i-47400a235/
-- WhatsApp: +970 595 720 054
+- WhatsApp: +972 567 715 743
 
 ⭐ Always eager to learn, research, and build intelligent systems at the
 intersection of AI and neuroscience.
